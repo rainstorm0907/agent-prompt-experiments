@@ -4,7 +4,7 @@
 
 리드 지침 첫 문단 뒤에 세 문단을 더한 B안을 채택했다. Opus가 사용자의 흐릿한 망설임("뭔가 맘에 안 들어")을 혼자 해석해 고쳐 버리던 버릇이 AI 채점자 두 명 기준 모두 3번 중 0번으로 줄었다. 공통 지침까지 바꾼 C안은 이 장면들에서 B보다 나은 증거가 없고 모든 역할의 지침을 건드려서 후보로만 뒀다.
 
-- 반영 커밋: [keepitmello/Rubato@7f3a50d](https://github.com/keepitmello/Rubato/commit/7f3a50dd902d) (`core-lead.pi.md` + 회귀 시험 케이스 `evals/stage-sense.yaml`)
+- 반영된 문단: [공식 리드 지시문 `core-lead.pi.md`](https://github.com/keepitmello/Rubato/blob/7b3509c221e52d762a517bdb0c2a1510538ed704/harness/prompts/core-lead.pi.md#L5-L7)
 
 ## 무슨 일이었나
 

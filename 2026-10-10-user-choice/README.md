@@ -4,7 +4,7 @@
 
 AI 리드가 "네가 고른 것보다 이게 낫다"를 혼자 정하던 버릇을 리드 지침 한 문단 교체로 고쳤다. Opus 기준으로 고치기 전 3번 중 3번 → 고친 뒤 0번(AI 채점자 두 명 모두 같은 판정). Rubato 공개 저장소에 올렸다.
 
-- 반영 커밋: [keepitmello/Rubato@aaa894c](https://github.com/keepitmello/Rubato/commit/aaa894ce8c88) (`harness/prompts/core-lead.pi.md` 한 문단 + 회귀 시험 케이스 `harness/prompts/evals/user-choice.yaml`)
+- 반영된 문단: [공식 리드 지시문 `core-lead.pi.md`](https://github.com/keepitmello/Rubato/blob/7b3509c221e52d762a517bdb0c2a1510538ed704/harness/prompts/core-lead.pi.md#L9)
 
 ## 무슨 일이었나
 
